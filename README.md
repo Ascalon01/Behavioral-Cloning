@@ -14,7 +14,7 @@ Files in the repository
 ---
 * [model.py](./model.py) is the script to create and train the model.
 * [drive.py](./drive.py) is the script For driving the car in autonomous mode in the simulator.
-* [video.py] is the script for generating video from the images obtained after driving car in autonomous mode.
+* [video.py](./video.py) is the script for generating video from the images obtained after driving car in autonomous mode.
 * [model.h5](./model.h5) is the trained convolution neural network.
 * [writeup](./writeup.md) detailing the results of the project and describing the procedure for Behavioral Cloning.
 
@@ -27,6 +27,5 @@ The project depends on the,
   3. [Sklearn](https://scikit-learn.org/)
   4. [Keras](https://keras.io/)
   5. [Tensorflow](https://www.tensorflow.org/)
-Overview
 
 
